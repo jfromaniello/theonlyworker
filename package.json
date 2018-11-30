@@ -1,0 +1,16 @@
+{
+  "name": "theonlyworker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José F. Romaniello <jfromaniello@gmail.com> (https://joseoncode.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jimp": "^0.6.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
